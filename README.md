@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm  yesehak👋
 
 
 🎓 I'm currently pursuing a degree in Software Engineering at Hilcoe School, where I'm building a strong foundation in programming, systems design, and software development.<br>
