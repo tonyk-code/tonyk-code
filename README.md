@@ -1,5 +1,4 @@
-# 💫 About Me:
-# 💫 About Me:<br>Hi there, I'm yesehak👋<br>🎓 I'm currently pursuing a degree in Software Engineering at Hilcoe School, where I'm building a strong foundation in programming, systems design, and software development.<br>🌱 I'm also diving into front-end web development, expanding my skills in building responsive and interactive user interfaces.<br>📫 How to reach me: (Instagram)(https://www.instagram.com/yesehakkebere)
+# 💫 About Me: # 💫 About Me:<br>Hi there, I'm yesehak👋<br>🎓 I'm currently pursuing a degree in Software Engineering at Hilcoe School, where I'm building a strong foundation in programming, systems design, and software development.<br>🌱 I'm also diving into front-end web development, expanding my skills in building responsive and interactive user interfaces.<br>📫 How to reach me: (Instagram)(https://www.instagram.com/yesehakkebere)
 
 
 ## 🌐 Socials:
